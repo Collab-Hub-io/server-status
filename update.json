@@ -1,8 +1,8 @@
 {
     "Status": "running",
     "Server Version": "3.3.3",
-    "Update": "A new Max Client (Package) coming soon",
-    "Update": "P5.CollabHub (beta) available: https://github.com/Collab-Hub-io/p5.CollabHub",
-    "Update": "A new workshop coming soon."
-    "Update": "This server will be closing down soon. Download latest Max Package today."
+    "Update-1": "A new Max Client (Package) coming soon",
+    "Update-2": "P5.CollabHub (beta) available: https://github.com/Collab-Hub-io/p5.CollabHub",
+    "Update-3": "A new workshop coming soon.",
+    "Update-4": "This server will be closing down soon. Download latest Max Package today."
 }
